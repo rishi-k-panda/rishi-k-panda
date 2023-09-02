@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python, Git, Jenkins, Linux**
 
-- 📫 How to reach me **phrushikesh60@gmail.com/9966659766**
+- 📫 How to reach me **phrushikesh60@gmail.com / 9966659766**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
