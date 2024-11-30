@@ -1,0 +1,27 @@
+Soups - Veg
+
+Veg Manchow Soup - 99
+Veg Hot & Sour Soup - 109
+Veg Clear Soup - 89
+Lemon Coriander Soup - 99
+Mushroom Soup - 99
+Veg Thukpa - 99
+
+          Soups - Non Veg
+
+Chicken Manchow Soup - 119
+Chicken Hot & Sour Soup - 119
+Chicken Clear Soup - 109
+Chicken Thukpa - 109
+Chicken Lemon Coriander - 109
+
+         Starters - Veg
+
+Veg Manchurian - 139
+Gobi Manchurian - 139
+Gobi 65 - 149
+Chilli Paneer - 199
+Paneer Manchurian - 199
+Paneer 65 - 209
+Pepper and salt Paneer - 199
+Pepper Garlic Paneer - 209
