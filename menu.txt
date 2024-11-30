@@ -25,3 +25,134 @@ Paneer Manchurian - 199
 Paneer 65 - 209
 Pepper and salt Paneer - 199
 Pepper Garlic Paneer - 209
+Chilli Mushroom - 169
+Mushroom Manchurian - 169
+Mushroom 65 - 179
+
+         Starters - Non Veg
+
+Chicken Manchurian - 199
+Chilli Chicken - 209
+Chicken 65 - 209
+Pepper Garlic Chicken - 209
+Chicken Lollipop - 199
+Drums of Heaven - 209
+Butter Garlic Chicken - 209
+
+        Fried Rice - Veg
+
+Veg Fried Rice - 119
+Schezwan Fried Rice - 129
+Chilli Garlic Fried Rice - 129
+Burnt Garlic Fried Rice - 129
+Butter Garlic Fried Rice - 139
+Paneer Fried Rice - 139
+Mushroom Fried Rice - 129
+
+      Fried Rice - Non Veg
+
+Egg Fried Rice - 129
+Egg Schezwan Fried Rice - 139
+Chicken Fried Rice - 149
+Chicken Schezwan Fried Rice - 159
+Chilli Garlic Chicken Fried Rice - 149
+Burnt Garlic Chicken Fried Rice - 149
+Butter Garlic Chicken Fried Rice - 159
+
+       Noodles - Veg
+
+Veg Noodles - 119
+Schezwan Noodles - 129
+Chilli Garlic Noodles - 129
+Burnt Garlic Noodles - 129
+Butter Garlic Noodles - 139
+Paneer Noodles - 149
+Mushroom Noodles - 139
+
+     Noodles - Non Veg
+
+Egg Noodles - 129
+Egg Schezwan Noodles - 139
+Chicken Noodles - 149
+Chicken Schezwan Noodles - 159
+Chilli Garlic Chicken Noodles - 149
+Burnt Garlic Chicken Noodles - 149
+Butter Garlic Chicken Noodles - 159
+
+
+     Main Course - Veg
+Dal Fry - 129
+Dal Tadka - 129
+Paneer Masala - 189
+Paneer Butter Masala - 209
+Kadai Paneer - 199
+Paneer Kolhapuri - 209
+Mushroom Masala - 189
+Kadai Mushroom - 189
+Mushroom Kolhapuri - 199
+Mix Veg Masala - 209
+
+      Main Course - Non Veg
+
+Egg Bhurji - 99
+Egg Masala - 159
+Chicken Masala - 209
+Butter Chicken Masala - 229
+Kadai Chicken - 229
+Chicken Fry - 209
+Mutton Masala - 329
+Mutton Fry - 329
+
+
+     Biryanis - Veg
+
+Mushroom Biryani - 179
+Paneer Biryani - 179
+Kaju Biryani - 189
+Kaju Paneer Biryani - 199
+
+
+     Biryanis - Non Veg
+
+Zaffrani Chicken Dum Biryani - 139
+Zaffrani Chicken Dum Biryani Handi - 259
+Zaffrani Chicken Fry Piece Biryani - 159
+Zaffrani Chicken Fry Piece Biryani Handi - 299
+Drums of Heaven Biryani - 199
+Drums of Heaven Biryani Handi - 379
+Chicken-65 Biryani - 199
+Chicken-65 Biryani Handi - 379
+Mutton Fry Piece Biryani - 259
+Mutton Fry Piece Biryani Handi - 449
+Zaffrani Chicken Dum Biryani Family - 539
+Zaffrani Chicken Fry Piece Biryani Family - 619
+Mutton Fry Piece Biryani Family - 899
+
+      North Indian
+
+Jeera Rice + Dal - 139
+2 Plain Paratha + Dal - 99
+3 Pulka + Dal - 99
+2 Pulka + Egg Bhurji - 99
+Jeera Rice - 79
+1 pc. Paratha - 19
+1 pc. Pulka - 15
+
+
+     Cold Beverages 
+
+Thumsup - MRP
+Coca Cola - MRP
+Sprite - MRP
+Water Bottle - MRP
+ 
+
+
+
+
+        
+
+
+
+
+ 
